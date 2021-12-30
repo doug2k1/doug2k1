@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Douglas Matoso, a front-end developer from Brazil.
+
 ## Projects
 
 **Web Dev Drops** - https://www.webdevdrops.com
