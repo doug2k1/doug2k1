@@ -2,7 +2,7 @@
 
 I'm Douglas Matoso, a front-end developer from Brazil.
 
-## Projects
+## Side Projects
 
 **Web Dev Drops** - https://www.webdevdrops.com
 
@@ -13,6 +13,12 @@ I'm Douglas Matoso, a front-end developer from Brazil.
 **Frete-Fácil** - https://www.frete-facil.com
 
 **Manowar Lyrics Generator** - https://www.dmatoso.com/manowar-lyrics-generator/
+
+## Social
+
+**LinkedIn** - https://www.linkedin.com/in/douglasmatoso/
+
+**Twitter** - https://twitter.com/doug2k1
 
 <!--
 **doug2k1/doug2k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
