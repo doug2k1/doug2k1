@@ -4,6 +4,8 @@ I'm Douglas Matoso, a front-end developer from Brazil.
 
 ## Side Projects
 
+**Matoso.dev** - https://www.matoso.dev
+
 **Web Dev Drops** - https://www.webdevdrops.com
 
 **FreeDevCourses** - https://www.freedevcourses.com
