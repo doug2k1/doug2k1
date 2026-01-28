@@ -14,8 +14,6 @@ I'm Douglas Matoso, a front-end developer from Brazil.
 
 **Manowar Lyrics Generator** - https://www.dmatoso.com/manowar-lyrics-generator/
 
-**Frete-Fácil** - https://www.frete-facil.com (discontinued)
-
 ## Social
 
 **LinkedIn** - https://www.linkedin.com/in/douglasmatoso/
